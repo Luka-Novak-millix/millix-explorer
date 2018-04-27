@@ -1,12 +1,12 @@
 {
-  "name": "byteball-explorer",
-  "description": "Byteball explorer",
-  "author": "Byteball",
+  "name": "millix-explorer",
+  "description": "Millix explorer",
+  "author": "Millix",
   "version": "0.1.0",
   "main": "start.js",
   "keywords": [
     "explorer",
-    "byteball",
+    "millix",
     "full node"
   ],
   "scripts": {
@@ -15,11 +15,11 @@
   },
   "license": "MIT",
   "repository": {
-    "url": "git://github.com/byteball/byteball-explorer.git",
+    "url": "git://github.com/millix/millix-explorer.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/byteball/byteball-explorer/issues"
+    "url": "https://github.com/millix/millix-explorer/issues"
   },
   "browser": {
     "request": "browser-request",
@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "async": "^2.1.5",
-    "byteballcore": "git+https://github.com/byteball/byteballcore.git",
+    "millixcore": "git+https://github.com/millix/millixcore.git",
     "express": "^4.14.0",
     "moment": "^2.17.1",
     "socket.io": "^1.7.1"

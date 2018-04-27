@@ -1,7 +1,7 @@
 /*jslint node: true */
 'use strict';
 
-var db = require('byteballcore/db.js');
+var db = require('millixcore/db.js');
 var units = require('./units');
 var address = require('./address');
 
