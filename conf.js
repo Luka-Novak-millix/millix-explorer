@@ -60,7 +60,7 @@ exports.initial_witnesses = [
 ];
 */
 exports.initial_peers = [
-	'wss://millix.org/bb'
+	'wss://millix.org/millix'
 ];
 
 console.log('finished explorer conf');
